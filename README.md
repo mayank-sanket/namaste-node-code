@@ -1,1 +1,1 @@
-# namaste-node-code
+# Namaste Node Series
